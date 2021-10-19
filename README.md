@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Integração TypeScript com React 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um exemplo de um contador basico utilizando a linguagem TyprScript com React.
 
 ## Available Scripts
 
